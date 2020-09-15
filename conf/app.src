@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/huridocs/uwazi/archive/1.8.0.tar.gz
+SOURCE_SUM=cf8bdd66174d22e3e8247d1cae208a01fcbbe59c32bb3051c9c4ade543854f90
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
