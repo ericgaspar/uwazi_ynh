@@ -1,4 +1,4 @@
-# Uwasi for YunoHost
+# Uwazi for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/uwazi.svg)](https://dash.yunohost.org/appci/app/uwazi) ![](https://ci-apps.yunohost.org/ci/badges/uwazi.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/uwazi.maintain.svg)  
 [![Install Uwazi with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=uwazi)
@@ -19,7 +19,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Demo
 
-* [Official demo]()
+* [Official demo](https://demo.uwazi.io/)
 
 ## Configuration
 
