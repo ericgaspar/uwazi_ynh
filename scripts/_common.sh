@@ -5,7 +5,7 @@
 #=================================================
 
 # dependencies used by the app
-pkg_dependencies="postgresql apt-transport-https pdftotext libjpeg-dev libpng-dev"
+pkg_dependencies="postgresql apt-transport-https libjpeg-dev libpng-dev"
 
 nodejs_version=14
 
